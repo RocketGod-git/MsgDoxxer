@@ -102,3 +102,5 @@ This project is licensed under the GPL-3.0 license. See the [LICENSE](LICENSE) f
 ---
 
 **Note:** This tool is intended for educational and informational purposes only. Always exercise caution when dealing with potentially malicious files and links.
+
+![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
